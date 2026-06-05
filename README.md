@@ -8,7 +8,8 @@ ZINO is a decentralized, community-driven meme token launched on the **BNB Smart
 
 ## 🌐 Live Website
 
-👉 [Visit ZINO Website](https://zinu-kappa.vercel.app/)
+👉 [Visit ZINO Website](https://zinu-kappa.vercel.app/) ~/
+~ [ZINO](https://zinu-9h09tn9jy-rss-projects-cfab6834.vercel.app/)
 
 ---
 
@@ -48,14 +49,14 @@ ZINO is a decentralized, community-driven meme token launched on the **BNB Smart
 | Total Supply    | 1,000,000 $ZINO    |
 | Tax             | 0% Buy / 0% Sell   |
 | Liquidity Lock  | Yes                |
-| Ownership       | Renounced          |
+| Ownership       | NOTRenounced          |
 
 ---
 
 ## 📢 Community & Airdrop
 
-- 📢 Telegram: [@rsxing](https://t.me/rsxing)  
-- 🐦 Twitter: [@zinocoin](https://twitter.com/sinntuu)  
+- 📢 Telegram: [@rsxrfgd]([https://t.me/rsxing](https://t.me/rsxrfgd))  
+- 🐦 Twitter: [@profitprotip](https://twitter.com/profitprotip)  
 - 🎁 Airdrop: [Claim Here](https://docs.google.com/forms/d/e/1FAIpQLSd176XPK5XgNkmA19LuApoUjWJ_Qg_0TCKDGNhJ9JpWRD8Q4w/viewform)
 
 ---
